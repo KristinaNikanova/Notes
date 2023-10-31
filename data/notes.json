@@ -1,0 +1,58 @@
+[
+    {
+        "id": 1,
+        "header": "hdr",
+        "text": "txt",
+        "created": 1691591272.995634,
+        "modified": 1691591272.995634
+    },
+    {
+        "id": 3,
+        "header": "header 3",
+        "text": "text 3",
+        "created": 1691594263.4824224,
+        "modified": 1691594263.4824224
+    },
+    {
+        "id": 4,
+        "header": "note header",
+        "text": "some text",
+        "created": 1691602867.1019568,
+        "modified": 1691602867.1019568
+    },
+    {
+        "id": 5,
+        "header": "header 5",
+        "text": "text 5",
+        "created": 1691602918.4120069,
+        "modified": 1691616330.9390266
+    },
+    {
+        "id": 7,
+        "header": "some new header",
+        "text": "some new text",
+        "created": 1691664128.4926965,
+        "modified": 1691664128.4926965
+    },
+    {
+        "id": 8,
+        "header": "one more header",
+        "text": "and one more text",
+        "created": 1691664150.8343093,
+        "modified": 1691664150.8343093
+    },
+    {
+        "id": 9,
+        "header": "restore",
+        "text": "it is possible to add restoration from backup, but I am tired",
+        "created": 1691664272.8158069,
+        "modified": 1691664272.8158069
+    },
+    {
+        "id": 10,
+        "header": "last check",
+        "text": "check one more time whole project",
+        "created": 1691664364.3831477,
+        "modified": 1691664364.3831477
+    }
+]
